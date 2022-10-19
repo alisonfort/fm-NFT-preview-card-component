@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/flexbox-and-css-grid-Bbg3OcTM51]
-- Live Site URL: [https://alisonfort.github.io/fm-nft-preview-card-component/]
+- Solution URL: [https://www.frontendmentor.io/solutions/flexbox-and-css-grid-bYfowMRwFE]
+- Live Site URL: [https://alisonfort.github.io/fm-NFT-preview-card-component/]
 
 ## My process
 
